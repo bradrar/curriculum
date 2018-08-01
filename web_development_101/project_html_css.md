@@ -183,6 +183,7 @@ Submit a pull request with a link to your solution in this [file](https://github
 * [Mateus' Solution (Easy)](https://github.com/mateus-reno/google-homepage) - [View in Browser](https://mateus-reno.github.io/google-homepage/)
 * [Ezra's Solution(Easy)](https://github.com/Azhorabai/google-homepage-easy) - [View in Browser](https://azhorabai.github.io/google-homepage-easy)
 * [Ozra's Solution (Difficult)](https://github.com/0zra/search-results) - [View in Browser](https://0zra.github.io/search-results/)
+* [Brad's Solution(Easy)](https://github.com/bradrar/google-homepage) - [View in Browser](https://bradrar.github.io/google-homepage/)
 * [Argenm's Solution (Easy)](https://cdn.rawgit.com/Argenm/google-homepage/8af904c7/index.html) - [View in Browser](https://argenm.github.io/google-homepage/)
 * [Vista's Solution (Difficult)](https://github.com/vistapuri/google-search-result) - [View in Browser](https://vistapuri.github.io/google-search-result/)
 * [Vista's Solution (Easy)](https://github.com/vistapuri/google-homepage) - [View in Browser](https://vistapuri.github.io/google-homepage/)
